@@ -1,2 +1,2 @@
 # CS1-2
-Computer Science A projects. JAVA
+Repo for some old java projects
